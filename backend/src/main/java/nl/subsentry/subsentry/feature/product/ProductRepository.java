@@ -1,6 +1,5 @@
-package nl.subsentry.subsentry.repository;
+package nl.subsentry.subsentry.feature.product;
 
-import nl.subsentry.subsentry.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

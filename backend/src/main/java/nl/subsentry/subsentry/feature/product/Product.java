@@ -1,4 +1,4 @@
-package nl.subsentry.subsentry.entity;
+package nl.subsentry.subsentry.feature.product;
 
 import jakarta.persistence.*;
 import lombok.Getter;
